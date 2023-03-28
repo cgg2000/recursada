@@ -9,7 +9,6 @@ import static jdk.nashorn.internal.objects.NativeString.length;
 import static jdk.nashorn.internal.objects.NativeString.toLowerCase;
 import static jdk.nashorn.internal.objects.NativeString.toUpperCase;
 
-
 public class Ejercicio3 {
 
     /**
@@ -26,7 +25,7 @@ public class Ejercicio3 {
         System.out.println(framin);
         System.out.println(fraMAY);
         System.out.println("esta es la prueba para verficar GitHub");
-                
+        System.out.println("solo para probar github");      
         System.out.println("El tamaño de :"  + fra + " es de , (" + fra.length() + ")caracteres");
            
 
