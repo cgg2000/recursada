@@ -1,6 +1,6 @@
 /*
  * Escribir un programa que pida una frase y la muestre toda en mayúsculas y después toda en minúsculas.  
- * 
+ * ademas le incorporo una modificacion el 28 de marzo par GitHub
  */
 package ejercicio3;
 
